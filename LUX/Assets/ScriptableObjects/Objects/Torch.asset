@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e009c13f54662f343b22adc7762235d9, type: 3}
+  m_Name: Torch
+  m_EditorClassIdentifier: 
+  name: Torch
+  prefab: {fileID: 5988819314597172145, guid: 02c28b70f2a069b46a9bed2a0839ebc0, type: 3}
+  aimSpeed: 5
+  brightness: 10
+  attackRange: 1
+  damage: 40
+  attackRate: 1
+  isSelected: 0
+  charge: 50
